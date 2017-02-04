@@ -19,6 +19,7 @@
    "useJavascriptMarkdownTransformer":true,
    "autoHandbackNoChangeXliff": true,
    "translationSysFileDestination": "HandbackRepo",
+   "AutoHandoffAfterTransformerUpdate": true,
    "markdownTransformerOptions":{  
       "preset": "CnE"
    },
