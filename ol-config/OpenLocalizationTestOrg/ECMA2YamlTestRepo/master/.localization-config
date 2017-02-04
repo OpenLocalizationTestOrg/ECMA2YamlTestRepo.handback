@@ -1,0 +1,29 @@
+{  
+   "filters":[
+      {
+        "files":[ 
+            "halfdotnet/**/*.yml"
+ 
+        ],
+        "priorities":[
+            {
+               "priority":"Intellisense",
+               "locales":[ "zh-cn", "de-de" ],
+               "Type":"HT"
+            }
+         ]
+     }
+   ],
+   "includeDependencies":false,
+   "autoPush":true,
+   "useJavascriptMarkdownTransformer":true,
+   "autoHandbackNoChangeXliff": true,
+   "translationSysFileDestination": "HandbackRepo",
+   "markdownTransformerOptions":{  
+      "preset": "CnE"
+   },
+   "intellisenceOptions":{
+      "locales": [ "zh-cn" ],
+      "mrefSourceType": "DotNet"
+   }
+}
