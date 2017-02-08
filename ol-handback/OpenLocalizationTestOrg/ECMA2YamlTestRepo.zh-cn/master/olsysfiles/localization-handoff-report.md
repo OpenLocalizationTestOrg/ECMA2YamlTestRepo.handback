@@ -12,9 +12,9 @@
 ##### <a name='8c6107ddc9459795fe012b5e88fdf3e6401e9cda6'></a> Source: [halfdotnet\Accessibility\Accessibility.AnnoScope.yml](https://github.com/OpenLocalizationTestOrg/ECMA2YamlTestRepo/blob/480df9f3e97e68ae47e1e76216320be8f459ee0a/halfdotnet/Accessibility/Accessibility.AnnoScope.yml)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [Accessibility.AnnoScope.f58a866e7a40921ee38e39e7086409c9e54494d9.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/ECMA2YamlTestRepo.handoff/blob/fb6ac956f915f07defaf6d9214c9578db34588af/ol-handoff/OpenLocalizationTestOrg/ECMA2YamlTestRepo.zh-cn/master/intellisense/Accessibility.AnnoScope.f58a866e7a40921ee38e39e7086409c9e54494d9.zh-cn.xlf)
-* Handoff Datetime: 2017-02-07 04:50:01
-* Handoff Reason: Include
+* Handoff File: [Accessibility.AnnoScope.f58a866e7a40921ee38e39e7086409c9e54494d9.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/ECMA2YamlTestRepo.handoff/blob/9703cdea2287e9a4a5834f62df52fac55a6362bd/ol-handoff/OpenLocalizationTestOrg/ECMA2YamlTestRepo.zh-cn/master/intellisense/Accessibility.AnnoScope.f58a866e7a40921ee38e39e7086409c9e54494d9.zh-cn.xlf)
+* Handoff Datetime: 2017-02-08 04:20:45
+* Handoff Reason: TransformerUpdate
 * Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
