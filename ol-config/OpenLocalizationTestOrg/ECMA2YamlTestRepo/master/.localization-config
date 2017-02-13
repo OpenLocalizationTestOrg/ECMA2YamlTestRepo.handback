@@ -23,7 +23,7 @@
    "markdownTransformerOptions":{  
       "preset": "CnE"
    },
-   "intellisenceOptions":{
+   "intellisenseOptions":{
       "locales": [ "zh-cn" ],
       "mrefSourceType": "DotNet"
    }
