@@ -1,11 +1,28 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 0
+ Total Files | 1
 
 ## File List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [halfdotnet\Accessibility\Accessibility.AnnoScope.yml](https://github.com/OpenLocalizationTestOrg/ECMA2YamlTestRepo/blob/480df9f3e97e68ae47e1e76216320be8f459ee0a/halfdotnet/Accessibility/Accessibility.AnnoScope.yml) | HandedOffSuccess | [Details](#8c6107ddc9459795fe012b5e88fdf3e6401e9cda6)
 
 ## Item Details
+##### <a name='8c6107ddc9459795fe012b5e88fdf3e6401e9cda6'></a> Source: [halfdotnet\Accessibility\Accessibility.AnnoScope.yml](https://github.com/OpenLocalizationTestOrg/ECMA2YamlTestRepo/blob/480df9f3e97e68ae47e1e76216320be8f459ee0a/halfdotnet/Accessibility/Accessibility.AnnoScope.yml)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [Accessibility.AnnoScope.f58a866e7a40921ee38e39e7086409c9e54494d9.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ECMA2YamlTestRepo.handoff/blob/f20d4b64448b91db5b9dbe7bd9bc16811ec8dbd6/ol-handoff/OpenLocalizationTestOrg/ECMA2YamlTestRepo.de-de/master/intellisense/Accessibility.AnnoScope.f58a866e7a40921ee38e39e7086409c9e54494d9.de-de.xlf)
+* Handoff Datetime: 2017-02-21 12:47:35
+* Handoff Reason: TransformerUpdate
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
 
 ## Error Details
 
