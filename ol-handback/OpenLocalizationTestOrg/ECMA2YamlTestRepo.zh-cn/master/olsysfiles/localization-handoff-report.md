@@ -13,8 +13,8 @@
 ##### <a name='8c6107ddc9459795fe012b5e88fdf3e6401e9cda6'></a> Source: [halfdotnet\Accessibility\Accessibility.AnnoScope.yml](https://github.com/OpenLocalizationTestOrg/ECMA2YamlTestRepo/blob/480df9f3e97e68ae47e1e76216320be8f459ee0a/halfdotnet/Accessibility/Accessibility.AnnoScope.yml)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [Accessibility.AnnoScope.f58a866e7a40921ee38e39e7086409c9e54494d9.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/ECMA2YamlTestRepo.handoff/blob/0f267da337baa445d6a96304ebad615165e59352/ol-handoff/OpenLocalizationTestOrg/ECMA2YamlTestRepo.zh-cn/master/intellisense/Accessibility.AnnoScope.f58a866e7a40921ee38e39e7086409c9e54494d9.zh-cn.xlf)
-* Handoff Datetime: 2017-02-21 12:39:32
+* Handoff File: [Accessibility.AnnoScope.f58a866e7a40921ee38e39e7086409c9e54494d9.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/ECMA2YamlTestRepo.handoff/blob/275a8131bfa5b500f655e9c7fa6278df7aecdd14/ol-handoff/OpenLocalizationTestOrg/ECMA2YamlTestRepo.zh-cn/master/intellisense/Accessibility.AnnoScope.f58a866e7a40921ee38e39e7086409c9e54494d9.zh-cn.xlf)
+* Handoff Datetime: 2017-02-24 06:11:14
 * Handoff Reason: TransformerUpdate
 * Handoff Name: 
 * Archive File: 
@@ -27,8 +27,8 @@
 ##### <a name='6213bad51a7ea42e59645cb2a56eb995143e89765902'></a> Source: [halfdotnet\System.Windows.Media.Animation\System.Windows.Media.Animation.HandoffBehavior.yml](https://github.com/OpenLocalizationTestOrg/ECMA2YamlTestRepo/blob/c6b8a64b1e7c03bec94ba12a1f91e89574f0ab59/halfdotnet/System.Windows.Media.Animation/System.Windows.Media.Animation.HandoffBehavior.yml)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [System.Windows.Media.Animation.HandoffBehavior.d7ff1ac6f0a7fea2857e3e3e70270f4eb03c91af.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/ECMA2YamlTestRepo.handoff/blob/0f267da337baa445d6a96304ebad615165e59352/ol-handoff/OpenLocalizationTestOrg/ECMA2YamlTestRepo.zh-cn/master/intellisense/System.Windows.Media.Animation.HandoffBehavior.d7ff1ac6f0a7fea2857e3e3e70270f4eb03c91af.zh-cn.xlf)
-* Handoff Datetime: 2017-02-21 12:39:32
+* Handoff File: [System.Windows.Media.Animation.HandoffBehavior.d7ff1ac6f0a7fea2857e3e3e70270f4eb03c91af.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/ECMA2YamlTestRepo.handoff/blob/275a8131bfa5b500f655e9c7fa6278df7aecdd14/ol-handoff/OpenLocalizationTestOrg/ECMA2YamlTestRepo.zh-cn/master/intellisense/System.Windows.Media.Animation.HandoffBehavior.d7ff1ac6f0a7fea2857e3e3e70270f4eb03c91af.zh-cn.xlf)
+* Handoff Datetime: 2017-02-24 06:11:14
 * Handoff Reason: TransformerUpdate
 * Handoff Name: 
 * Archive File: 
